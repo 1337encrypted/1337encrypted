@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact: **Keep busy, its the cheapest kind of medicine there is on earth and one of the best**
 
+<br>
+
 <a href="https://github.com/1337encrypted?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1337encrypted&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Anurag's github stats" width="50%" height="50%" /></a>
 <a href="https://github.com/1337encrypted?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337encrypted&layout=compact&theme=onedark&hide_border=true" width="41.8%" height="41.8%" /></a>
 ![Snake animation](https://github.com/1337encrypted/1337encrypted/blob/output/github-contribution-grid-snake.svg)
@@ -29,17 +31,17 @@
 </a>
   
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/smallaszero" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/smallaszero" width="20" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/smallaszero" width="30" />
 </a>
   
 <a href="https://mecanumbots.business.site" target="blank">
   <img align="center" alt="1337encrypted | Mecanumbots" src="https://github.com/1337encrypted/1337encrypted/blob/main/assets/bb8.png" width="21px" />
 </a>
 <a href="mailto:smallaszero@gmail.com" target="blank">
-  <img align="center" alt="smallaszero@gmail.com | email" src="https://raw.githubusercontent.com/1337encrypted/1337encrypted/main/assets/mail.svg" width="20px" />
+  <img align="center" alt="smallaszero@gmail.com | email" src="https://raw.githubusercontent.com/1337encrypted/1337encrypted/main/assets/mail.svg" width="30px" />
 </a>
 <a href="https://www.instagram.com/herekar_yash/" target="blank">
-  <img align="center" alt="1337encrypted | Twitter" src="https://raw.githubusercontent.com/1337encrypted/1337encrypted/main/assets/instagram.svg" width="21px" />
+  <img align="center" alt="1337encrypted | Twitter" src="https://raw.githubusercontent.com/1337encrypted/1337encrypted/main/assets/instagram.svg" width="30px" />
 </a>
   
 </p>
