@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **smallaszero@gmail.com**
 
-- 📄 This is my [resume](https://tangible-thyme-53a.notion.site/Resume-21713979b676449281a5d4f924e86b65)
+- 📄 This is my [resume](https://github.com/1337encrypted/Documents/blob/main/CV.pdf)
+<!-- (https://tangible-thyme-53a.notion.site/Resume-21713979b676449281a5d4f924e86b65) -->
 
 - ⚡ Fun fact: **Keep busy, its the cheapest kind of medicine there is on earth and one of the best**
 
