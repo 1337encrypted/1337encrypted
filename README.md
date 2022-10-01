@@ -26,23 +26,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/yash-herekar-b29b16244" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yash-herekar-b29b16244" height="30" width="40" /></a>
   
-<a href="https://instagram.com/herekar_yash" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="herekar_yash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/yash-herekar-b29b16244" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yash-herekar-b29b16244" width="20" />
+</a>
   
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/smallaszero" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/smallaszero" height="30" width="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/smallaszero" width="20" />
+</a>
   
 <a href="https://mecanumbots.business.site" target="blank">
-  <img align="center" alt="1337encrypted | Mecanumbots" width="21px" src="https://github.com/1337encrypted/1337encrypted/blob/main/assets/bb8.png"/>
+  <img align="center" alt="1337encrypted | Mecanumbots" src="https://github.com/1337encrypted/1337encrypted/blob/main/assets/bb8.png" width="21px" />
 </a>
 <a href="mailto:smallaszero@gmail.com" target="blank">
-  <img align="center" alt="smallaszero@gmail.com | email" width="20px" src="https://raw.githubusercontent.com/1337encrypted/1337encrypted/main/assets/mail.svg" />
+  <img align="center" alt="smallaszero@gmail.com | email" src="https://raw.githubusercontent.com/1337encrypted/1337encrypted/main/assets/mail.svg" width="20px" />
 </a>
 <a href="https://www.instagram.com/herekar_yash/" target="blank">
-  <img align="center" alt="1337encrypted | Twitter" width="21px" src="https://raw.githubusercontent.com/1337encrypted/1337encrypted/main/assets/instagram.svg" />
+  <img align="center" alt="1337encrypted | Twitter" src="https://raw.githubusercontent.com/1337encrypted/1337encrypted/main/assets/instagram.svg" width="21px" />
 </a>
   
 </p>
