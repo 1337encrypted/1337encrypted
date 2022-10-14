@@ -42,7 +42,9 @@
   <img align="center" alt="smallaszero@gmail.com | email" src="https://raw.githubusercontent.com/1337encrypted/1337encrypted/main/assets/mail.svg" width="30px" />
 </a>
 <a href="https://www.instagram.com/herekar_yash/" target="blank">
-  <img align="center" alt="1337encrypted | Twitter" src="https://raw.githubusercontent.com/1337encrypted/1337encrypted/main/assets/instagram.svg" width="30px" />
+  f16d
+  <!--i class="fa-brands fa-instagram"></i-->
+  <!--img align="center" alt="1337encrypted | Twitter" src="https://raw.githubusercontent.com/1337encrypted/1337encrypted/main/assets/instagram.svg" width="30px" /-->
 </a>
   
 </p>
