@@ -1,3 +1,5 @@
+<script src="https://kit.fontawesome.com/705154b584.js" crossorigin="anonymous"></script>
+
 <h1 align="center">Hi 👋, I'm Yash Herekar</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1337encrypted&label=Profile%20views&color=0e75b6&style=flat" alt="1337encrypted" /> </p>
@@ -43,7 +45,7 @@
 </a>
 <a href="https://www.instagram.com/herekar_yash/" target="blank">
   f16d
-  <!--i class="fa-brands fa-instagram"></i-->
+  <i class="fa-brands fa-instagram"></i>
   <!--img align="center" alt="1337encrypted | Twitter" src="https://raw.githubusercontent.com/1337encrypted/1337encrypted/main/assets/instagram.svg" width="30px" /-->
 </a>
   
