@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1337encrypted&label=Profile%20views&color=0e75b6&style=flat" alt="1337encrypted" /> </p>
 
-- 🌱 I’m currently learning **Web development, STM32 microcontroller, AI & ML**
+- 🌱 I’m currently learning **Web development, STM32 microcontroller, POSIX shell scripting**
 
 - 👨‍💻 All of my projects are available at my [github repositories](https://github.com/1337encrypted?tab=repositories)
 
@@ -13,7 +13,7 @@
 - 📄 This is my [resume](assets/CV.pdf)
 <!-- (https://tangible-thyme-53a.notion.site/Resume-21713979b676449281a5d4f924e86b65) -->
 
-- ⚡ Fun fact: **Keep busy, its the cheapest kind of medicine there is on earth and one of the best**
+<!-- ⚡ Fun fact: **Keep busy, its the cheapest kind of medicine there is on earth and one of the best** -->
 
 <br>
 
