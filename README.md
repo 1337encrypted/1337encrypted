@@ -1,8 +1,8 @@
-<h6 align="center">
+<p font-size:5px align="center">
 <pre>╦ ╦┬  ╦  ╔═╗┌┬┐  ╦ ╦┌─┐╔═╗┬ ┬  ╦ ╦┌─┐╦═╗┌─┐╦╔═┌─┐╦═╗
 ╠═╣│  ║  ╠═╣│││  ╚╦╝├─┤╚═╗├─┤  ╠═╣├┤ ╠╦╝├┤ ╠╩╗├─┤╠╦╝
 ╩ ╩┴  ╩  ╩ ╩┴ ┴   ╩ ┴ ┴╚═╝┴ ┴  ╩ ╩└─┘╩╚═└─┘╩ ╩┴ ┴╩╚═</pre>
-</h6>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1337encrypted&label=Profile%20views&color=0e75b6&style=flat" alt="1337encrypted" /> </p>
 
