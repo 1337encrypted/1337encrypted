@@ -1,8 +1,6 @@
-<p font-size:5px align="center">
-<pre>╦ ╦┬  ╦  ╔═╗┌┬┐  ╦ ╦┌─┐╔═╗┬ ┬  ╦ ╦┌─┐╦═╗┌─┐╦╔═┌─┐╦═╗
-╠═╣│  ║  ╠═╣│││  ╚╦╝├─┤╚═╗├─┤  ╠═╣├┤ ╠╦╝├┤ ╠╩╗├─┤╠╦╝
-╩ ╩┴  ╩  ╩ ╩┴ ┴   ╩ ┴ ┴╚═╝┴ ┴  ╩ ╩└─┘╩╚═└─┘╩ ╩┴ ┴╩╚═</pre>
-</p>
+<h1 align="center">
+Hi I am Yash Herekar
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1337encrypted&label=Profile%20views&color=0e75b6&style=flat" alt="1337encrypted" /> </p>
 
