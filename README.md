@@ -4,7 +4,7 @@ Hi i am Yash Herekar
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1337encrypted&label=Profile%20views&color=0e75b6&style=flat" alt="1337encrypted" /> </p>
 
-- 🌱 I’m currently learning **Web development, STM32 microcontroller, POSIX shell scripting**
+- 🌱 I’m currently learning **Web development, STM32 microcontroller, BASH shell scripting**
 
 - 👨‍💻 All of my projects are available at my [github repositories](https://github.com/1337encrypted?tab=repositories)
 
