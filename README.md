@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi i am Yash Herekar
+$\mathnormal{Hi}$ $\mathnormal{I}$ $\mathnormal{am}$ $\mathnormal{Yash}$ $\mathnormal{Herekar}$
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1337encrypted&label=Profile%20views&color=0e75b6&style=flat" alt="1337encrypted" /> </p>
@@ -15,12 +15,16 @@ Hi i am Yash Herekar
 - 📄 This is my [resume](assets/CV.pdf)
 <!-- (https://tangible-thyme-53a.notion.site/Resume-21713979b676449281a5d4f924e86b65) -->
 
-<!-- ⚡ Fun fact: **Keep busy, its the cheapest kind of medicine there is on earth and one of the best** -->
-
 <br>
 
+<!-- STAT CARD -->
 <a href="https://github.com/1337encrypted?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1337encrypted&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Anurag's github stats" width="50%" height="50%" /></a>
 <a href="https://github.com/1337encrypted?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337encrypted&layout=compact&theme=onedark&hide_border=true" width="41.8%" height="41.8%" /></a>
+
+<!-- QUOTE -->
+<p align="center">$\mathit{✠Give}$ $\mathit{me}$ $\mathit{six}$ $\mathit{hours}$ $\mathit{to}$ $\mathit{chop}$ $\mathit{down}$ $\mathit{a}$ $\mathit{tree}$ $\mathit{and}$ $\mathit{I}$ $\mathit{will}$ $\mathit{spend}$ $\mathit{the}$ $\mathit{first}$ $\mathit{four}$ $\mathit{sharpening}$ $\mathit{the}$ $\mathit{axe.✠}$ </p>
+
+<!-- SNAKE ANIMATION -->
 ![Snake animation](https://github.com/1337encrypted/1337encrypted/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Languages and Tools:</h3>
