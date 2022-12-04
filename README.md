@@ -21,8 +21,9 @@ $\mathnormal{Hi}$ $\mathnormal{I}$ $\mathnormal{am}$ $\mathnormal{Yash}$ $\mathn
 <a href="https://github.com/1337encrypted?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1337encrypted&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="1337encrypted's github stats" width="50%" height="50%" /></a>
 <a href="https://github.com/1337encrypted?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337encrypted&layout=compact&theme=onedark&hide_border=true" width="41.8%" height="41.8%" /></a>
 
-<!-- QUOTE -->
+<!-- QUOTE
 <p align="center">$\mathit{✠Give}$ $\mathit{me}$ $\mathit{six}$ $\mathit{hours}$ $\mathit{to}$ $\mathit{chop}$ $\mathit{down}$ $\mathit{a}$ $\mathit{tree}$ $\mathit{and}$ $\mathit{I}$ $\mathit{will}$ $\mathit{spend}$ $\mathit{the}$ $\mathit{first}$ $\mathit{four}$ $\mathit{sharpening}$ $\mathit{the}$ $\mathit{axe.✠}$ </p>
+-->
 
 <!-- SNAKE ANIMATION 
 ![Snake animation](https://github.com/1337encrypted/1337encrypted/blob/output/github-contribution-grid-snake.svg)
@@ -34,14 +35,20 @@ $\mathnormal{Hi}$ $\mathnormal{I}$ $\mathnormal{am}$ $\mathnormal{Yash}$ $\mathn
 
 
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="assets/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> 
+<p align="left"> 
 
-</a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://www.arduino.cc/" target="_blank"> <img src="assets/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a> 
+  
+<!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+-->
+
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="/assets/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
+  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="assets/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="assets/cplusplus-original" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="assets/debian-original-wordmark" alt="debian" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=assets/docker-original-wordmark" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="/assets/debian-original-wordmark" alt="debian" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="assets/docker-original-wordmark" alt="docker" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="assets/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="assets/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/> </a>
