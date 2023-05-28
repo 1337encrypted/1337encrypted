@@ -1,4 +1,4 @@
-<h1 align="center">$Hi$ $i$ $am$ $Yash$ $Herekar$</h1>
+<h2 align="center">Hi i am Yash Herekar</h2>
 
 - 🌱 I’m currently learning **Podman**
 
