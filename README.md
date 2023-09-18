@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **yashherekar1337@gmail.com**
 
-- 📄 This is my [resume](assets/resume.pdf)
+<!-- 📄 This is my [resume](assets/resume.pdf) -->
 <!-- (https://tangible-thyme-53a.notion.site/Resume-21713979b676449281a5d4f924e86b65) -->
 
 <br>
