@@ -1,4 +1,4 @@
-<h2 align="center">Hi i am Yash Herekar</h2>
+<h2 align="center">Hi I am Yash Herekar</h2>
 
 - 🌱 I’m currently learning **Podman**
 
