@@ -1,10 +1,10 @@
 <h2 align="center">Hi I am Yash Herekar</h2>
 
-- 🌱 I’m currently learning **Podman**
+- 🌱 I’m currently learning **CSS, Javascript, react and FREERtos**
 
 - 👨‍💻 All of my projects are available at my [github repositories](https://github.com/1337encrypted?tab=repositories)
 
-- 💬 Ask me about **Embedded system design and development**
+- 💬 Ask me about **Embedded system web development**
 
 - 📫 How to reach me **yashherekar1337@gmail.com**
 
