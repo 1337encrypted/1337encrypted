@@ -1,6 +1,6 @@
 <h2 align="center">Hi I am Yash Herekar</h2>
 
-- 🌱 I’m currently learning **CSS, Javascript, react and FREERtos**
+- 🌱 I’m currently learning **nodejs, expressjs, react and FREERtos**
 
 - 👨‍💻 All of my projects are available at my [github repositories](https://github.com/1337encrypted?tab=repositories)
 
