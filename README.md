@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **yashherekar1337@gmail.com**
 
-- 📄 This is my [resume](http://16.171.179.211/portfolio-website/resume.html)
+- 📄 This is my [resume](https://1337encrypted.github.io/resume.html)
 
 <!-- (https://tangible-thyme-53a.notion.site/Resume-21713979b676449281a5d4f924e86b65) -->
 
