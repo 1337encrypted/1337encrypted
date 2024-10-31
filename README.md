@@ -1,10 +1,10 @@
 <h2 align="center">Hi I am Yash Herekar</h2>
 
-- 🌱 I’m currently learning **go, htmx and FREERtos**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at my [github repositories](https://github.com/1337encrypted?tab=repositories)
 
-- 💬 Ask me about **Embedded system web development**
+- 💬 Ask me about **Embedded system**
 
 - 📫 How to reach me **yashherekar1337@gmail.com**
 
